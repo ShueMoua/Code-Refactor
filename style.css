@@ -59,6 +59,13 @@ p {
     background-position: center;
 }
 
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -67,13 +74,6 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-    margin-top: 20px;
 }
 
 .benefits {
